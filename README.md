@@ -1,6 +1,18 @@
 # CYSE-465-AutoWare-Project
 
-##### Meeting for 11/12/2022
+Kevin Pham
+
+##### Meeting for 11/12/2022'
+
+General Accomplishments and Roles:
+
+- Lead initial setup of SVL simulator and AutoWare
+
+- Set meeting dates
+
+- Lead team meetings
+
+- Set tasks for team within each meetings
 
 Tasks for upcoming meeting on 11/15/2022:
 
@@ -10,16 +22,14 @@ Tasks for upcoming meeting on 11/15/2022:
 
 - If traffic cone implementation is feasible, test traffic cone affects with the benign and attack case
 
-- Document all work of each member by opening up their own github and team also separate team github to document meetings and progress
+- Opened team github
 
 ###### Meeting for 11/15/2022
 
-- Progress follow up:
+Accomplishments for meeting on 11/15/2022
+
+- Intermediate Autoware testing has been completed, multi-car simulations did not show any abnormal behavior, further modifications will need to be done
+
+- Revised plan for testing:
   
-  - Successful cone insertion into the Unity editor, although issues involving its placement within the simulation exist, further testing will need to be done
-  
-  - Majority of team members have worked with/ played with the simulator
-  
-  - Future direction of the project is discussed, involving what methods of attack will want to be tested (placing multi-car simulation to test if there is a possible way to trigger un-wanted behavior in a vehicle or implementing of attack cone to trigger unwanted vehicle behaviors)
-  
-  - Designate tasks for team members to focus and complete to work over the next week and during break
+  - Attempt implementation of cone attack since Jack was able to import the cone into the Unity Engine simulator
