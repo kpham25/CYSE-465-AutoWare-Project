@@ -2,7 +2,7 @@
 
 Kevin Pham
 
-##### Meeting for 11/12/2022'
+##### Meeting for 11/12/2022
 
 General Accomplishments and Roles:
 
@@ -33,3 +33,19 @@ Accomplishments for meeting on 11/15/2022
 - Revised plan for testing:
   
   - Attempt implementation of cone attack since Jack was able to import the cone into the Unity Engine simulator
+
+###### Accomplishments updated 11/25/22:
+
+- Currently testing implementation of Autoware.AI autonomous driving, resources seem too scarce in order to fully utilize it, as CPU is maxed out causing the machine to freeze, even before starting the simulation on SVL simulator. 
+
+- Storage Limit reached, attempted to expand volume so will need to contact professor
+
+- Linux screen does not update as intended, which requires me to refresh the browser whenever I am clicking somehting on screen and it appears frozen
+
+- Autoware.AI causing unstable machine performance, plan to switch to Baidu Apollo
+
+###### Accomplishments updated for 11/27/22:
+
+- Secondary volume attached but not properly showing up on machine, will need to contact ORC or professor in order to advise next move for storage
+
+- Baidu Apollo installation failed, not enough disk storage to install docker image or create container
