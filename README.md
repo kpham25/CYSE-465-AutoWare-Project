@@ -49,3 +49,25 @@ Accomplishments for meeting on 11/15/2022
 - Secondary volume attached but not properly showing up on machine, will need to contact ORC or professor in order to advise next move for storage
 
 - Baidu Apollo installation failed, not enough disk storage to install docker image or create container
+
+###### Accomplishments updated for 12/5/22:
+
+- Secondary Volume successfully attached to a drive within the home directory
+
+- Testing both Autoware.AI and Apollo 5.0 with new system specifications
+  
+  - Baidu Apollo appeared more stable with both localization and vehicle placement on the map
+  
+  - Autoware.AI proved to still not work correctly, as while localization issues were solved, autodriving issues still ocurred when planning a route in Rviz
+  
+  - Troubleshooting steps attempted but move to Baidu Apollo still confirmed
+
+- Baidu Apollo still showed no sucess with auto driving, despite correct localization and confirmed that bridge was communication with LG SVL simulator.
+
+###### Accomplishments updated for 12/6/22:
+
+- Team was brought together in order to conduct video demonstration
+
+- Baidu Apollo still did not function, which was properly explained within the video
+
+- Adversarial cone object effectively evaded the perception of the LiDAR sensors through observing the pointcloud around the car within LG SVL.
