@@ -40,6 +40,12 @@ Within our report. My section involved discussing the Baidu Apollo 5 install, se
 
 
 
+I was a significant contributor in the discussion of our project which can be seen below:
+
+![chat](./images/chat.png)
+
+
+
 ###### Tasks for upcoming meeting on 11/15/2022:
 
 - Conduct further testing on Autoware and become more comfortable with a software, testing out different multi-car scenarios to observe how the car behaves and also to see what changes to the scenario will cause a change in the behavior for the vehicle.
