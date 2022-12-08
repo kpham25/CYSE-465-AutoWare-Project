@@ -12,9 +12,19 @@ General Accomplishments and Roles:
 
 - Lead team meetings
 
+- Communicated team roles, work assignments and general direction of the project
+
 - Set tasks for team within each meetings
 
-Tasks for upcoming meeting on 11/15/2022:
+- Lead through demonstration and setup of Baidu Apollo version 5.0 with Jack Raymond
+
+- Lead the demonstration of Baidu Apollo and LG SVL
+  
+  ![]
+
+
+
+###### Tasks for upcoming meeting on 11/15/2022:
 
 - Conduct further testing on Autoware and become more comfortable with a software, testing out different multi-car scenarios to observe how the car behaves and also to see what changes to the scenario will cause a change in the behavior for the vehicle.
 
