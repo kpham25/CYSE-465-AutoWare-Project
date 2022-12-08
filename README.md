@@ -19,8 +19,24 @@ General Accomplishments and Roles:
 - Lead through demonstration and setup of Baidu Apollo version 5.0 with Jack Raymond
 
 - Lead the demonstration of Baidu Apollo and LG SVL
-  
-  ![]
+
+
+
+
+
+Main tasking and contributions:
+
+I was mostly working within the virutal machine instance. I along with my group mates continually troubleshooted and attempted new pathways with LG SVL simulator in order to attempt at gettign the autonomous driving working. While autonomous driving wasn't necessarily the key to our attack, it would've allowed us to prove the effectiveness of our attack. By having the Apollo dreamview route pointed behind the cone. If our hypothesis was correct where the cone would not be detected by LiDAR, the cone would have collided with the vehicle. 
+
+![apollo_5](./images/apollo_5.JPG)
+
+
+
+Despite being unable to test this. The group and I were still able to observe the LiDAR point cloud seemingly passing through the cone, which indicated to us that the adversarial cone was indeed successfully avoiding the detection within the LiDAR point cloud.
+
+
+
+
 
 
 
